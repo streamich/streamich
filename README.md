@@ -52,11 +52,11 @@ editing solutions, local-first software, and Web3 apps.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
   - [`mqtt-codec`][mqtt-codec] 🧪💥 __experimental__ &mdash; the fastest MQTT packet parser for Node.js.
   - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of LL recursive descent JIT parser with backtracking.
-- Servers
+- Server & Networking
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
   - [`redis-joy`][redis-joy] 🧪💥 __experimental__ &mdash; a very fast Redis 7+ RESP3 standalone and cluster client.
-  - `multicore` 🧪💥 __experimental__ &mdash; a very fast thread pool for Node.js.
+  - [`node-multicore`][node-multicore] 🧪💥 __experimental__ &mdash; PoC of a very fast thread pool for Node.js.
 
 
 [react-use]: https://github.com/streamich/react-use
@@ -88,6 +88,7 @@ editing solutions, local-first software, and Web3 apps.
 [iconista]: https://github.com/streamich/iconista
 [reactive-rpc]: https://github.com/jsonjoy-com/reactive-rpc
 [redis-joy]: https://github.com/streamich/redis-joy
+[node-multicore]: https://github.com/streamich/node-multicore
 
 
 #### Writings
