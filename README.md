@@ -1,9 +1,10 @@
 If you are using any of my projects or like what I'm doing, please consider backing me
 up. I appreciate it! 🙏 Your support will help me allocate more time to the open source work.
 
-- __[Become a sponsor](https://github.com/sponsors/streamich)__
-- __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
--  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
+> [!NOTE]
+> - __[Become a sponsor](https://github.com/sponsors/streamich)__
+> - __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
+> -  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
 
 ---
 
@@ -80,11 +81,11 @@ below is a list of my recent projects and writings.
   - [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks) `blog`
   - [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks) `blog`
   - [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm) `blog`
-- [Random notes](https://onp4.com/@vadim) `notes`
-  - [Programming](https://onp4.com/@vadim/~programming)
-  - [JavaScript](https://onp4.com/@vadim/~js)
-  - [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
-  - [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles)
+- My [Random notes](https://onp4.com/@vadim) `notes`
+  - [Programming](https://onp4.com/@vadim/~programming) `notes`
+  - [JavaScript](https://onp4.com/@vadim/~js) `notes`
+  - [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing) `notes`
+  - [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles) `notes`
 
 [spec-json-crdt]: https://jsonjoy.com/specs/json-crdt
 [spec-json-crdt-patch]: https://jsonjoy.com/specs/json-crdt-patch
