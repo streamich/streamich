@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> If you are using any of my projects or like what I'm doing, please consider backing me
+> If you or __your company__ are using any of my projects or like what I'm doing, please consider backing me
 > up. I appreciate it! 🙏 Your support will help me allocate more time to the open source work.
 > 
 > - __[Become a sponsor](https://github.com/sponsors/streamich)__
@@ -9,7 +9,7 @@
 
 My current focus is on developing CRDT and OT collaborative editing solutions,
 local-first software, and Web3 apps. I maintain and contribute to OSS software,
-below is a list of my recent projects and writings.
+below is a list of my latest projects and writings.
 
 ---
 
@@ -22,36 +22,38 @@ below is a list of my recent projects and writings.
   - [`react-embed`][react-embed] &mdash; embed social widgets in your React app.
   - [`react-simple-player`][react-simple-player] &mdash; a minimalistic audio player React component.
   - [`use-media`][use-media] &mdash; CSS media queries through React hook.
-  - `clickable-json`
-  - `awesome-styleguides`
+  - `awesome-styleguides` &mdash; index of style guides and design systems.
+  - `code-colors` & `code-colors-react` &mdash; code syntax highlighting libraries.
 - Filesystem
   - [`memfs`][memfs] &mdash; a virtual filesystem for Node.js and browser, plus OPFS file system helpers.
   - [`unionfs`][unionfs] &mdash; creates a union of multiple filesystem volumes.
   - [`fs-monkey`][fs-monkey] &mdash; monkey-patches Node's `fs` module and `require` function.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
-- [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
 - Collaborative editing
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
     - `json-joy/json-crdt` &mdash; The fastest list CRDT implementation in JavaScript.
     - `json-joy/json-patch` &mdash; Very fast JSON Patch (and JSON Pointer) implementation in JavaScript, including many non-standard operations, and JSON Predicate implementation.
     - `json-joy/json-type` &mdash; The fastest JSON schema validation implementation in JavaScript.
-  - `flexible-input` ...
+  - `clickable-json` &mdash; JSON viewer and editor with hoverable and clickable objects.
+  - `flexible-input` &mdash; React `<input>` and `<textarea>` components which stretches to fit the content.
   - `collaborative-input` ...
+- Data structures & utilities
+  - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
+  - [`sonic-forest`][sonic-forest] &mdash; a very fast AVL, Splay, and Radix tree implementations in JavaScript.
+  - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
+  - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
+  - `utils`
 - Parsing
-  - [`json-pack`] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in JavaScript.
-  - `jit-router` &mdash; the fastest HTTP router in JavaScript.
+  - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in JavaScript.
+  - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
   - [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
-  - `jit-parser`
+  - `jit-parser` 🧪 `experimental` &mdash; PoC of LL recursive descent JIT parser with backtracking.
 - Servers
   - Reactive RPC server
   - Redis ...
-- Data structures & utilities
-  - [`sonic-forest`] &mdash; a very fast AVL, Splay, and Radix tree implementations in JavaScript.
-  - [`tree-dump`] &mdash; utility to easily print tree-like structures.
-  - `thingies`
-  - `utils`
+
 
 [react-use]: https://github.com/streamich/react-use
 [libreact]: https://github.com/streamich/libreact
@@ -67,6 +69,10 @@ below is a list of my recent projects and writings.
 [git-cz]: https://github.com/streamich/git-cz
 [sonic-forest]: https://github.com/streamich/sonic-forest
 [tree-dump]: https://github.com/streamich/tree-dump
+[thingies]: https://github.com/streamich/thingies
+[tree-dump]: https://github.com/streamich/tree-dump
+[json-pack]: https://github.com/jsonjoy-com/json-pack
+[jit-router]: https://github.com/jsonjoy-com/jit-router
 
 
 #### Writings
@@ -95,12 +101,16 @@ below is a list of my recent projects and writings.
 [spec-compact-json]: https://jsonjoy.com/specs/compact-json
 
 
+---
+
+
 #### Thank You
 
 Your support means a lot to me and will help me to continue working on my projects!
 
-- __[Become a sponsor](https://github.com/sponsors/streamich)__
-- __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
--  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
+> **Give back**
+> - __[Become a sponsor](https://github.com/sponsors/streamich)__
+> - __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
+> -  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
 
 [![streamich GitHub stats](https://github-readme-stats.vercel.app/api?username=streamich)](https://github.com/anuraghazra/github-readme-stats)
