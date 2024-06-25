@@ -33,13 +33,13 @@ editing solutions, local-first software, and Web3 apps.
   - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
   - [`use-t`][use-t] &mdash; a small internationalization library for React.
   - [`iconista`][iconista] &mdash; a React component for rendering open-source SVG icons.
+  - [`react-router-lite`][react-router-lite] &mdash; a lightweight React router.
 - Filesystem
   - [`memfs`][memfs] &mdash; a virtual filesystem for Node.js and browser, plus OPFS file system helpers.
   - [`unionfs`][unionfs] &mdash; creates a union of multiple filesystem volumes.
   - [`fs-monkey`][fs-monkey] &mdash; monkey-patches Node's `fs` module and `require` function.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
-  - [`react-router-lite`][react-router-lite] &mdash; a lightweight React router.
   <!-- - `fs-zoo` 🔜 __soon__ &mdash; browser OPFS and other file system utilities. -->
 - Data structures, algorithms, and utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
