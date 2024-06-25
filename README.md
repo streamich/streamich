@@ -69,15 +69,17 @@ below is a list of my recent projects and writings.
 
 #### Writings
 
-- [**JSON CRDT**][spec-json-crdt] `specification` &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
-- [**JSON CRDT Patch**][spec-json-crdt-patch] `specification` &mdash; The patch format for JSON CRDT.
-- [**JSON Expression**][spec-json-expression] `specification` &mdash; s-expression specification for JSON.
-- [**JSON Reactive RPC**][spec-json-rx] `specification` &mdash; JSON Reactive RPC protocol (RPC with server push) implementation, for real-time collaborative apps.
-- [**Compact JSON**][spec-compact-json] `encoding` &mdash; A compact Tuple-Type-Value (TTV) encoding for JSON.
-- [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt) `blog`
-- [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks) `blog`
-- [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks) `blog`
-- [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm) `blog`
+- Specifications
+  - [**JSON CRDT**][spec-json-crdt] `specification` &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
+  - [**JSON CRDT Patch**][spec-json-crdt-patch] `specification` &mdash; The patch format for JSON CRDT.
+  - [**JSON Expression**][spec-json-expression] `specification` &mdash; s-expression specification for JSON.
+  - [**JSON Reactive RPC**][spec-json-rx] `specification` &mdash; JSON Reactive RPC protocol (RPC with server push) implementation, for real-time collaborative apps.
+  - [**Compact JSON**][spec-compact-json] `encoding` &mdash; A compact Tuple-Type-Value (TTV) encoding for JSON.
+- Blog posts
+  - [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt) `blog`
+  - [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks) `blog`
+  - [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks) `blog`
+  - [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm) `blog`
 - [Random notes](https://onp4.com/@vadim) `notes`
   - [Programming](https://onp4.com/@vadim/~programming)
   - [JavaScript](https://onp4.com/@vadim/~js)
