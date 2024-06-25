@@ -50,6 +50,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
   - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Splay, and Radix tree implementations in JavaScript.
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
+  - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
   - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
@@ -59,7 +60,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
   - [`mqtt-codec`][mqtt-codec] 🧪💥 __experimental__ &mdash; the fastest MQTT packet parser for Node.js.
-  - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of LL recursive descent JIT parser with backtracking.
+  - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of LL recursive backtracking descent JIT parser generator.
 - Server & Networking
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
@@ -102,6 +103,7 @@ editing solutions, local-first software, and Web3 apps.
 [unionfs]: https://github.com/streamich/unionfs
 [use-media]: https://github.com/streamich/use-media
 [use-t]: https://github.com/streamich/use-t
+[rx-use]: https://github.com/streamich/rx-use
 
 
 #### My Writings
