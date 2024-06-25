@@ -20,8 +20,8 @@ below is a list of my latest projects and writings.
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
   - [`nano-css`][nano-css] &mdash; the fastest and smallest CSS-in-JS library with plenty of plugins.
   - [`react-embed`][react-embed] &mdash; embed social widgets in your React app.
-  - [`react-simple-player`][react-simple-player] &mdash; a minimalistic audio player React component.
   - [`use-media`][use-media] &mdash; CSS media queries through React hook.
+  - [`react-simple-player`][react-simple-player] &mdash; a minimalistic audio player React component.
   - `awesome-styleguides` &mdash; index of style guides and design systems.
   - `code-colors` & `code-colors-react` &mdash; code syntax highlighting libraries.
 - Filesystem
@@ -35,9 +35,9 @@ below is a list of my latest projects and writings.
     - `json-joy/json-crdt` &mdash; The fastest list CRDT implementation in JavaScript.
     - `json-joy/json-patch` &mdash; Very fast JSON Patch (and JSON Pointer) implementation in JavaScript, including many non-standard operations, and JSON Predicate implementation.
     - `json-joy/json-type` &mdash; The fastest JSON schema validation implementation in JavaScript.
-  - `clickable-json` &mdash; JSON viewer and editor with hoverable and clickable objects.
-  - `flexible-input` &mdash; React `<input>` and `<textarea>` components which stretches to fit the content.
-  - `collaborative-input` ...
+  - [`clickable-json`][clickable-json] &mdash; JSON viewer and editor with hoverable and clickable objects.
+  - [`flexible-input`] &mdash; React `<input>` and `<textarea>` components which stretch to fit the content.
+  - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
 - Data structures & utilities
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
   - [`sonic-forest`][sonic-forest] &mdash; a very fast AVL, Splay, and Radix tree implementations in JavaScript.
@@ -73,6 +73,9 @@ below is a list of my latest projects and writings.
 [tree-dump]: https://github.com/streamich/tree-dump
 [json-pack]: https://github.com/jsonjoy-com/json-pack
 [jit-router]: https://github.com/jsonjoy-com/jit-router
+[clickable-json]: https://github.com/streamich/clickable-json
+[flexible-input]: https://github.com/streamich/flexible-input
+[collaborative-input]: https://github.com/streamich/collaborative-input
 
 
 #### Writings
