@@ -19,7 +19,7 @@ editing solutions, local-first software, and Web3 apps.
 
 - UI and React
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
-  - [`nano-css`][nano-css] &mdash; the fastest and smallest CSS-in-JS library with lots of plugins (successor of [`freestyler`][freestyler]).
+  - [`nano-css`][nano-css] and [`nano-theme`][nano-theme] &mdash; the fastest and smallest CSS-in-JS library with lots of plugins (successor of [`freestyler`][freestyler]).
   - [`react-embed`][react-embed] &mdash; embed social widgets in your React app.
   - [`use-media`][use-media] &mdash; CSS media queries through React hook.
   - [`react-simple-player`][react-simple-player] &mdash; a minimalistic audio player React component.
@@ -37,14 +37,15 @@ editing solutions, local-first software, and Web3 apps.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
 - Data structures & utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
-    - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; The fastest list CRDT implementation in JavaScript.
-    - [`json-joy/json-patch`](https://jsonjoy.com/libs/json-joy-js/json-patch) &mdash; Very fast JSON Patch (and JSON Pointer) implementation in JavaScript.
+    - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; the fastest list CRDT implementation in JavaScript.
+    - [`json-joy/json-patch`](https://jsonjoy.com/libs/json-joy-js/json-patch) &mdash; very fast JSON Patch (and JSON Pointer) implementation in JavaScript.
     - [`json-joy/json-expression`](https://jsonjoy.com/libs/json-joy-js/json-expression) &mdash; JSON Expression implementation.
-    - `json-joy/json-type` &mdash; The fastest JSON schema validation implementation in JavaScript.
+    - `json-joy/json-type` &mdash; the fastest JSON schema validation implementation in JavaScript.
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
-  - [`sonic-forest`][sonic-forest] &mdash; a very fast AVL, Splay, and Radix tree implementations in JavaScript.
+  - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Splay, and Radix tree implementations in JavaScript.
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
+  - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
@@ -62,6 +63,7 @@ editing solutions, local-first software, and Web3 apps.
 [react-use]: https://github.com/streamich/react-use
 [libreact]: https://github.com/streamich/libreact
 [nano-css]: https://github.com/streamich/nano-css
+[nano-theme]: https://github.com/streamich/nano-theme
 [freestyler]: https://github.com/streamich/freestyler
 [react-embed]: https://github.com/streamich/react-embed
 [react-simple-player]: https://github.com/streamich/react-simple-player
@@ -89,6 +91,7 @@ editing solutions, local-first software, and Web3 apps.
 [reactive-rpc]: https://github.com/jsonjoy-com/reactive-rpc
 [redis-joy]: https://github.com/streamich/redis-joy
 [node-multicore]: https://github.com/streamich/node-multicore
+[cross-ci]: https://github.com/streamich/cross-ci
 
 
 #### Writings
@@ -105,10 +108,10 @@ editing solutions, local-first software, and Web3 apps.
   - `blog` [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks)
   - `blog` [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm)
 - My [Random notes](https://onp4.com/@vadim)
-  - `notes` [Programming](https://onp4.com/@vadim/~programming)
-  - `notes` [JavaScript](https://onp4.com/@vadim/~js)
-  - `notes` [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
-  - `notes` [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles)
+  - `note` [Programming](https://onp4.com/@vadim/~programming)
+  - `note` [JavaScript](https://onp4.com/@vadim/~js)
+  - `note` [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
+  - `note` [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles)
 
 [spec-json-crdt]: https://jsonjoy.com/specs/json-crdt
 [spec-json-crdt-patch]: https://jsonjoy.com/specs/json-crdt-patch
