@@ -39,6 +39,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`fs-monkey`][fs-monkey] &mdash; monkey-patches Node's `fs` module and `require` function.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
+  - [`react-router-lite`][react-router-lite] &mdash; a lightweight React router.
   <!-- - `fs-zoo` 🔜 __soon__ &mdash; browser OPFS and other file system utilities. -->
 - Data structures, algorithms, and utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
@@ -88,6 +89,7 @@ editing solutions, local-first software, and Web3 apps.
 [nano-theme]: https://github.com/streamich/nano-theme
 [node-multicore]: https://github.com/streamich/node-multicore
 [react-embed]: https://github.com/streamich/react-embed
+[react-router-lite]: https://github.com/streamich/react-router-lite
 [react-simple-player]: https://github.com/streamich/react-simple-player
 [react-use]: https://github.com/streamich/react-use
 [reactive-rpc]: https://github.com/jsonjoy-com/reactive-rpc
