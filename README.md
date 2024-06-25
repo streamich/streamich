@@ -52,7 +52,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
   - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
-  - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in plain JavaScript.
+  - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
   - [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
