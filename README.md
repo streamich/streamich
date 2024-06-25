@@ -26,6 +26,9 @@ editing solutions, local-first software, and Web3 apps.
   - [`clickable-json`][clickable-json] &mdash; JSON viewer and editor with hoverable and clickable objects.
   - [`flexible-input`][flexible-input] &mdash; React `<input>` and `<textarea>` components which stretch to fit the content.
   - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
+  - `collaborative-ace` &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
+  - `collaborative-monaco` &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
+  - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`awesome-styleguides`][awesome-styleguides] &mdash; index of style guides and design systems.
   - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
   - [`iconista`][iconista] &mdash; a React component for rendering open-source SVG icons.
@@ -35,6 +38,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`fs-monkey`][fs-monkey] &mdash; monkey-patches Node's `fs` module and `require` function.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
+  <!-- - `fs-zoo` 🔜 __soon__ &mdash; browser OPFS and other file system utilities. -->
 - Data structures, algorithms, and utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
     - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; the fastest list CRDT implementation in JavaScript.
@@ -46,6 +50,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
+  - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
@@ -98,10 +103,10 @@ editing solutions, local-first software, and Web3 apps.
 #### My Writings
 
 - Specifications
-  - `specification` [**JSON CRDT**][spec-json-crdt] &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
-  - `specification` [**JSON CRDT Patch**][spec-json-crdt-patch] &mdash; The patch format for JSON CRDT.
-  - `specification` [**JSON Expression**][spec-json-expression] &mdash; s-expression specification for JSON.
-  - `specification` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
+  - `spec` [**JSON CRDT**][spec-json-crdt] &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
+  - `spec` [**JSON CRDT Patch**][spec-json-crdt-patch] &mdash; The patch format for JSON CRDT.
+  - `spec` [**JSON Expression**][spec-json-expression] &mdash; s-expression specification for JSON.
+  - `spec` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
   - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact *Tuple-Type-Value* (TTV) encoding for JSON.
 - Blog posts
   - `blog` [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
