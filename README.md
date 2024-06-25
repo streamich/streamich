@@ -35,7 +35,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`fs-monkey`][fs-monkey] &mdash; monkey-patches Node's `fs` module and `require` function.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
-- Data structures & algorithms
+- Data structures, algorithms, and utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
     - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; the fastest list CRDT implementation in JavaScript.
     - [`json-joy/json-patch`](https://jsonjoy.com/libs/json-joy-js/json-patch) &mdash; very fast JSON Patch (and JSON Pointer) implementation in JavaScript.
