@@ -6,15 +6,14 @@
 > - __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
 > -  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
 
----
 
 My current focus is on developing CRDT and OT collaborative editing solutions,
 local-first software, and Web3 apps. I maintain and contribute to OSS software,
 below is a list of my recent projects and writings.
 
 
-#### Projects
-
+<details>
+  <summary><b>Projects</b></summary>
 - UI and React
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
   - [`nano-css`][nano-css] &mdash; the fastest and smallest CSS-in-JS library with plenty of plugins.
@@ -66,10 +65,12 @@ below is a list of my recent projects and writings.
 [git-cz]: https://github.com/streamich/git-cz
 [sonic-forest]: https://github.com/streamich/sonic-forest
 [tree-dump]: https://github.com/streamich/tree-dump
+</details>
 
 
-#### Writings
 
+<details>
+  <summary><b>Writings</b></summary>
 - Specifications
   - [**JSON CRDT**][spec-json-crdt] `specification` &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
   - [**JSON CRDT Patch**][spec-json-crdt-patch] `specification` &mdash; The patch format for JSON CRDT.
@@ -92,6 +93,7 @@ below is a list of my recent projects and writings.
 [spec-json-expression]: https://jsonjoy.com/specs/json-expression
 [spec-json-rx]: https://jsonjoy.com/specs/json-rx
 [spec-compact-json]: https://jsonjoy.com/specs/compact-json
+</details>
 
 
 #### Thank You
