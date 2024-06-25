@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!IMPORTANT]
 > If you are using any of my projects or like what I'm doing, please consider backing me
 > up. I appreciate it! 🙏 Your support will help me allocate more time to the open source work.
 > 
