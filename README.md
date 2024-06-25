@@ -15,7 +15,7 @@ editing solutions, local-first software, and Web3 apps.
 ---
 
 
-#### Projects
+#### My Projects
 
 - UI and React
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
@@ -27,7 +27,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`flexible-input`][flexible-input] &mdash; React `<input>` and `<textarea>` components which stretch to fit the content.
   - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
   - [`awesome-styleguides`][awesome-styleguides] &mdash; index of style guides and design systems.
-  - `code-colors` and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
+  - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
   - [`iconista`][iconista] &mdash; a React component for rendering open-source SVG icons.
 - Filesystem
   - [`memfs`][memfs] &mdash; a virtual filesystem for Node.js and browser, plus OPFS file system helpers.
@@ -47,7 +47,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
 - Parsing
-  - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in JavaScript.
+  - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, and JSON codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
   - [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
@@ -60,54 +60,55 @@ editing solutions, local-first software, and Web3 apps.
   - [`node-multicore`][node-multicore] 🧪💥 __experimental__ &mdash; PoC of a very fast thread pool for Node.js.
 
 
-[react-use]: https://github.com/streamich/react-use
+[ass-js]: https://github.com/streamich/ass-js
+[awesome-styleguides]: https://github.com/streamich/awesome-styleguides
+[clickable-json]: https://github.com/streamich/clickable-json
+[code-colors-react]: https://github.com/streamich/code-colors-react
+[code-colors]: https://github.com/streamich/code-colors
+[collaborative-input]: https://github.com/streamich/collaborative-input
+[cross-ci]: https://github.com/streamich/cross-ci
+[flexible-input]: https://github.com/streamich/flexible-input
+[freestyler]: https://github.com/streamich/freestyler
+[fs-monkey]: https://github.com/streamich/fs-monkey
+[git-cz]: https://github.com/streamich/git-cz
+[iconista]: https://github.com/streamich/iconista
+[jit-router]: https://github.com/jsonjoy-com/jit-router
+[json-pack]: https://github.com/jsonjoy-com/json-pack
 [libreact]: https://github.com/streamich/libreact
+[linkfs]: https://github.com/streamich/linkfs
+[memfs]: https://github.com/streamich/memfs
+[mqtt-codec]: https://github.com/streamich/mqtt-codec
 [nano-css]: https://github.com/streamich/nano-css
 [nano-theme]: https://github.com/streamich/nano-theme
-[freestyler]: https://github.com/streamich/freestyler
+[node-multicore]: https://github.com/streamich/node-multicore
 [react-embed]: https://github.com/streamich/react-embed
 [react-simple-player]: https://github.com/streamich/react-simple-player
-[use-media]: https://github.com/streamich/use-media
-[memfs]: https://github.com/streamich/memfs
-[unionfs]: https://github.com/streamich/unionfs
-[fs-monkey]: https://github.com/streamich/fs-monkey
-[linkfs]: https://github.com/streamich/linkfs
-[spyfs]: https://github.com/streamich/spyfs
-[git-cz]: https://github.com/streamich/git-cz
-[sonic-forest]: https://github.com/streamich/sonic-forest
-[tree-dump]: https://github.com/streamich/tree-dump
-[thingies]: https://github.com/streamich/thingies
-[tree-dump]: https://github.com/streamich/tree-dump
-[json-pack]: https://github.com/jsonjoy-com/json-pack
-[jit-router]: https://github.com/jsonjoy-com/jit-router
-[clickable-json]: https://github.com/streamich/clickable-json
-[flexible-input]: https://github.com/streamich/flexible-input
-[collaborative-input]: https://github.com/streamich/collaborative-input
-[ass-js]: https://github.com/streamich/ass-js
-[code-colors-react]: https://github.com/streamich/code-colors-react
-[awesome-styleguides]: https://github.com/streamich/awesome-styleguides
-[mqtt-codec]: https://github.com/streamich/mqtt-codec
-[iconista]: https://github.com/streamich/iconista
+[react-use]: https://github.com/streamich/react-use
 [reactive-rpc]: https://github.com/jsonjoy-com/reactive-rpc
 [redis-joy]: https://github.com/streamich/redis-joy
-[node-multicore]: https://github.com/streamich/node-multicore
-[cross-ci]: https://github.com/streamich/cross-ci
+[sonic-forest]: https://github.com/streamich/sonic-forest
+[spyfs]: https://github.com/streamich/spyfs
+[thingies]: https://github.com/streamich/thingies
+[tree-dump]: https://github.com/streamich/tree-dump
+[tree-dump]: https://github.com/streamich/tree-dump
+[unionfs]: https://github.com/streamich/unionfs
+[use-media]: https://github.com/streamich/use-media
 
 
-#### Writings
+#### My Writings
 
-- **Specifications**
+- Specifications
   - `specification` [**JSON CRDT**][spec-json-crdt] &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
   - `specification` [**JSON CRDT Patch**][spec-json-crdt-patch] &mdash; The patch format for JSON CRDT.
   - `specification` [**JSON Expression**][spec-json-expression] &mdash; s-expression specification for JSON.
-  - `specification` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation, for real-time collaborative apps.
-  - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact Tuple-Type-Value (TTV) encoding for JSON.
-- _Blog posts_
+  - `specification` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
+  - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact *Tuple-Type-Value* (TTV) encoding for JSON.
+- Blog posts
   - `blog` [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
   - `blog` [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks)
   - `blog` [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks)
   - `blog` [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm)
-- My [Random notes](https://onp4.com/@vadim)
+- My [random notes](https://onp4.com/@vadim)
   - `note` [Programming](https://onp4.com/@vadim/~programming)
   - `note` [JavaScript](https://onp4.com/@vadim/~js)
   - `note` [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
