@@ -31,6 +31,7 @@ editing solutions, local-first software, and Web3 apps.
   - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`awesome-styleguides`][awesome-styleguides] &mdash; index of style guides and design systems.
   - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
+  - [`use-t`][use-t] &mdash; a small internationalization library for React.
   - [`iconista`][iconista] &mdash; a React component for rendering open-source SVG icons.
 - Filesystem
   - [`memfs`][memfs] &mdash; a virtual filesystem for Node.js and browser, plus OPFS file system helpers.
@@ -98,6 +99,7 @@ editing solutions, local-first software, and Web3 apps.
 [tree-dump]: https://github.com/streamich/tree-dump
 [unionfs]: https://github.com/streamich/unionfs
 [use-media]: https://github.com/streamich/use-media
+[use-t]: https://github.com/streamich/use-t
 
 
 #### My Writings
