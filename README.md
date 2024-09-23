@@ -25,10 +25,6 @@ editing solutions, local-first software, and Web3 apps.
   - [`react-simple-player`][react-simple-player] &mdash; a minimalistic audio player React component.
   - [`clickable-json`][clickable-json] &mdash; JSON viewer and editor with hoverable and clickable objects.
   - [`flexible-input`][flexible-input] &mdash; React `<input>` and `<textarea>` components which stretch to fit the content.
-  - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
-  - `collaborative-ace` &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
-  - `collaborative-monaco` &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
-  - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`awesome-styleguides`][awesome-styleguides] &mdash; index of style guides and design systems.
   - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
   - [`use-t`][use-t] &mdash; a small internationalization library for React.
@@ -41,6 +37,12 @@ editing solutions, local-first software, and Web3 apps.
   - [`linkfs`][linkfs] &mdash; redirects filesystem paths.
   - [`spyfs`][spyfs] &mdash; spies on filesystem actions.
   <!-- - `fs-zoo` 🔜 __soon__ &mdash; browser OPFS and other file system utilities. -->
+- Filesystem
+  - [`collaborative-editor`][collaborative-editor] &mdash; General JSON CRDT `str` node sychnonization with any editor.
+  - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
+  - `collaborative-ace` &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
+  - `collaborative-monaco` &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
+  - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
 - Data structures, algorithms, and utilities
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
     - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; the fastest list CRDT implementation in JavaScript.
@@ -73,6 +75,7 @@ editing solutions, local-first software, and Web3 apps.
 [clickable-json]: https://github.com/streamich/clickable-json
 [code-colors-react]: https://github.com/streamich/code-colors-react
 [code-colors]: https://github.com/streamich/code-colors
+[collaborative-editor]: https://github.com/streamich/collaborative-editor
 [collaborative-input]: https://github.com/streamich/collaborative-input
 [cross-ci]: https://github.com/streamich/cross-ci
 [flexible-input]: https://github.com/streamich/flexible-input
