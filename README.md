@@ -48,6 +48,8 @@ editing solutions, local-first software, and Web3 apps.
   - `collaborative-ace` &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
   - `collaborative-monaco` &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
   - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
+  - [`json-pointer`][json-pointer] &mdash; JSON Pointer (RFC 6901) implementation with JIT compilation.
+  - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
 - Data structures, algorithms, and utilities
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
   - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Splay, and Radix tree implementations in JavaScript.
@@ -62,7 +64,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
   - [`mqtt-codec`][mqtt-codec] 🧪💥 __experimental__ &mdash; the fastest MQTT packet parser for Node.js.
-  - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of LL recursive backtracking descent JIT parser generator.
+  - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of PEG recursive descent backtracking JIT parser generator.
 - Server & Networking
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
@@ -85,6 +87,8 @@ editing solutions, local-first software, and Web3 apps.
 [iconista]: https://github.com/streamich/iconista
 [jit-router]: https://github.com/jsonjoy-com/jit-router
 [json-pack]: https://github.com/jsonjoy-com/json-pack
+[json-expression]: https://github.com/jsonjoy-com/json-expression
+[json-pointer]: https://github.com/jsonjoy-com/json-pointer
 [libreact]: https://github.com/streamich/libreact
 [linkfs]: https://github.com/streamich/linkfs
 [memfs]: https://github.com/streamich/memfs
