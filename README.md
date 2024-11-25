@@ -28,7 +28,7 @@ editing solutions, local-first software, and Web3 apps.
   - [`awesome-styleguides`][awesome-styleguides] &mdash; index of style guides and design systems.
   - [`code-colors`][code-colors] and [`code-colors-react`][code-colors-react] &mdash; code syntax highlighting libraries.
   - [`use-t`][use-t] &mdash; a small internationalization library for React.
-  - [`iconista`][iconista] &mdash; a React component for rendering open-source SVG icons.
+  - [`iconista`][iconista] &mdash; 100,000 free SVG icons, available on CDN and packaged as a React component.
   - [`react-router-lite`][react-router-lite] &mdash; a lightweight React router.
 - Filesystem
   - [`memfs`][memfs] &mdash; a virtual filesystem for Node.js and browser, plus OPFS file system helpers.
