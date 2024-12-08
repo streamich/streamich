@@ -60,7 +60,7 @@ editing solutions, local-first software, and Web3 apps.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
-  - [`very-small-parser`][very-small-parser] &mdahs; Small Markdown and HTML parser and formatter.
+  - [`very-small-parser`][very-small-parser] &mdash; Small Markdown and HTML parser and formatter.
     - Supersedes [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
   - [`mqtt-codec`][mqtt-codec] 🧪💥 __experimental__ &mdash; the fastest MQTT packet parser for Node.js.
