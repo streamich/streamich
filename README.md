@@ -44,9 +44,9 @@ editing solutions, local-first software, and Web3 apps.
     - `json-joy/json-type` &mdash; the fastest JSON schema validation implementation in JavaScript.
   - [`collaborative-editor`][collaborative-editor] &mdash; General JSON CRDT `str` node sychnonization with any editor.
   - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
-  - `collaborative-ace` &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
-  - `collaborative-monaco` &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
-  - `collaborative-codemirror` &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
+  - [`collaborative-ace`][collaborative-ace] &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
+  - [`collaborative-monaco`][collaborative-monaco] &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
+  - [`collaborative-codemirror`][collaborative-codemirror] &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`json-pointer`][json-pointer] &mdash; JSON Pointer (RFC 6901) implementation with JIT compilation.
   - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
 - Data structures, algorithms, and utilities
@@ -70,7 +70,22 @@ editing solutions, local-first software, and Web3 apps.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
   - [`redis-joy`][redis-joy] 🧪💥 __experimental__ &mdash; a very fast Redis 7+ RESP3 standalone and cluster client.
   - [`node-multicore`][node-multicore] 🧪💥 __experimental__ &mdash; PoC of a very fast thread pool for Node.js.
-
+- Specifications
+  - `spec` [**JSON CRDT**][spec-json-crdt] &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
+  - `spec` [**JSON CRDT Patch**][spec-json-crdt-patch] &mdash; The patch format for JSON CRDT.
+  - `spec` [**JSON Expression**][spec-json-expression] &mdash; s-expression specification for JSON.
+  - `spec` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
+  - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact *Tuple-Type-Value* (TTV) encoding for JSON.
+- Blog posts
+  - `blog` [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
+  - `blog` [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks)
+  - `blog` [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks)
+  - `blog` [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm)
+- My [random notes](https://onp4.com/@vadim)
+  - `note` [Programming](https://onp4.com/@vadim/~programming)
+  - `note` [JavaScript](https://onp4.com/@vadim/~js)
+  - `note` [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
+  - `note` [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles)
 
 [ass-js]: https://github.com/streamich/ass-js
 [awesome-styleguides]: https://github.com/streamich/awesome-styleguides
@@ -79,6 +94,9 @@ editing solutions, local-first software, and Web3 apps.
 [code-colors]: https://github.com/streamich/code-colors
 [collaborative-editor]: https://github.com/streamich/collaborative-editor
 [collaborative-input]: https://github.com/streamich/collaborative-input
+[collaborative-ace]: https://github.com/streamich/collaborative-ace
+[collaborative-monaco]: https://github.com/streamich/collaborative-monaco
+[collaborative-codemirror]: https://github.com/streamich/collaborative-codemirror
 [cross-ci]: https://github.com/streamich/cross-ci
 [flexible-input]: https://github.com/streamich/flexible-input
 [freestyler]: https://github.com/streamich/freestyler
@@ -112,27 +130,6 @@ editing solutions, local-first software, and Web3 apps.
 [use-t]: https://github.com/streamich/use-t
 [rx-use]: https://github.com/streamich/rx-use
 [very-small-parser]: https://github.com/streamich/very-small-parser
-
-
-#### My Writings
-
-- Specifications
-  - `spec` [**JSON CRDT**][spec-json-crdt] &mdash; Full JSON implementation as a CRDT (Conflict-free Replicated Datatype).
-  - `spec` [**JSON CRDT Patch**][spec-json-crdt-patch] &mdash; The patch format for JSON CRDT.
-  - `spec` [**JSON Expression**][spec-json-expression] &mdash; s-expression specification for JSON.
-  - `spec` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
-  - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact *Tuple-Type-Value* (TTV) encoding for JSON.
-- Blog posts
-  - `blog` [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
-  - `blog` [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks)
-  - `blog` [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks)
-  - `blog` [_Blazing Fast List CRDT_](https://jsonjoy.com/blog/performant-rga-list-crdt-algorithm)
-- My [random notes](https://onp4.com/@vadim)
-  - `note` [Programming](https://onp4.com/@vadim/~programming)
-  - `note` [JavaScript](https://onp4.com/@vadim/~js)
-  - `note` [Collaborative editing](https://onp4.com/@vadim/~collaborative-editing)
-  - `note` [Funny GitHub profiles](https://onp4.com/@vadim/~funny-github-profiles)
-
 [spec-json-crdt]: https://jsonjoy.com/specs/json-crdt
 [spec-json-crdt-patch]: https://jsonjoy.com/specs/json-crdt-patch
 [spec-json-expression]: https://jsonjoy.com/specs/json-expression
