@@ -1,21 +1,4 @@
-> [!IMPORTANT]
-> If you or __your company__ are using any of my projects or like what I'm doing, please consider backing me
-> up. I appreciate it! 🙏 Your support will help me allocate more time to the open source work.
-> 
-> - __[Become a sponsor](https://github.com/sponsors/streamich)__
-> - __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
-> -  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
-
-
-I maintain and contribute to OSS software, below is a list of my latest projects
-and writings. My current focus is on developing CRDT and OT collaborative
-editing solutions, local-first software, and Web3 apps.
-
-
----
-
-
-#### My Projects
+#### My Work
 
 - UI and React
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
@@ -148,7 +131,10 @@ Your support means a lot to me and will help me to continue working on my projec
 
 [![streamich GitHub stats](https://github-readme-stats.vercel.app/api?username=streamich)](https://github.com/anuraghazra/github-readme-stats)
 
-> **Support**
+> [!IMPORTANT]
+> If you or __your company__ are using any of my projects or like what I'm doing, please consider backing me
+> up. I appreciate it! 🙏 Your support will help me allocate more time to the open source work.
+> 
 > - __[Become a sponsor](https://github.com/sponsors/streamich)__
 > - __[Buy me a coffee](https://buymeacoffee.com/streamich)__ ☕️
 > -  or send a Solana airdrop 🚀 🌘, SOL: `LJJwteDZjL8u2Uhh5giwVpRa5KcHLkDogYAZntYbMsD`
