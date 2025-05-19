@@ -77,6 +77,8 @@ editing solutions, local-first software, and Web3 apps.
   - `spec` [**JSON Reactive RPC**][spec-json-rx] &mdash; JSON Reactive RPC protocol (RPC with server push) implementation.
   - `encoding` [**Compact JSON**][spec-compact-json] &mdash; A compact *Tuple-Type-Value* (TTV) encoding for JSON.
 - Blog posts
+  - `blog` [_Collaborative Text Editors (Part 2): Plain Text Synchronization_](https://jsonjoy.com/blog/collaborative-text-sync-plain-text)
+  - `blog` [_Collaborative Text Editors (Part 1): Prelude_](https://jsonjoy.com/blog/collaborative-text-sync-prelude)
   - `blog` [_Fuzz Testing RGA CRDT_](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
   - `blog` [_Benchmarking JSON Serialization Codecs_](https://jsonjoy.com/blog/json-codec-benchmarks)
   - `blog` [_List CRDT Benchmarks_](https://jsonjoy.com/blog/list-crdt-benchmarks)
