@@ -1,5 +1,3 @@
-#### My Work
-
 - UI and React
   - [`react-use`][react-use] and [`libreact`][libreact] &mdash; lots of React hooks and utility components.
   - [`nano-css`][nano-css] and [`nano-theme`][nano-theme] &mdash; the fastest and smallest CSS-in-JS library with lots of plugins (successor of [`freestyler`][freestyler]).
@@ -123,9 +121,6 @@
 
 
 ---
-
-
-#### Thank You
 
 Your support means a lot to me and will help me to continue working on my projects!
 
