@@ -36,6 +36,7 @@
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
+  - [`pojo-dump`][pojo-dump] &mdash; nicely prings JSON (or POJO) for human consumption.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
   - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
@@ -107,7 +108,7 @@
 [spyfs]: https://github.com/streamich/spyfs
 [thingies]: https://github.com/streamich/thingies
 [tree-dump]: https://github.com/streamich/tree-dump
-[tree-dump]: https://github.com/streamich/tree-dump
+[pojo-dump]: https://github.com/streamich/pojo-dump
 [unionfs]: https://github.com/streamich/unionfs
 [use-media]: https://github.com/streamich/use-media
 [use-t]: https://github.com/streamich/use-t
