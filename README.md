@@ -22,7 +22,6 @@
   - [`json-joy`](https://github.com/streamich/json-joy), a [JSON CRDT](https://jsonjoy.com/specs/json-crdt) implementation and collection of JSON awesomeness.
     - [`json-joy/json-crdt`](https://jsonjoy.com/libs/json-joy-js/json-crdt) &mdash; the fastest list CRDT implementation in JavaScript.
     - [`json-joy/json-patch`](https://jsonjoy.com/libs/json-joy-js/json-patch) &mdash; very fast JSON Patch (and JSON Pointer) implementation in JavaScript.
-    - `json-joy/json-type` &mdash; the fastest JSON schema validation implementation in JavaScript.
   - [`collaborative-editor`][collaborative-editor] &mdash; General JSON CRDT `str` node sychnonization with any editor.
   - [`collaborative-input`][collaborative-input] &mdash; React `<input>` and `<textarea>` components with JSON CRDT real-time collaboration support.
   - [`collaborative-ace`][collaborative-ace] &mdash; JSON CRDT real-time collaboration bindings for Ace editor.
@@ -30,14 +29,17 @@
   - [`collaborative-codemirror`][collaborative-codemirror] &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`json-pointer`][json-pointer] &mdash; JSON Pointer (RFC 6901) implementation with JIT compilation.
   - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
-- Data structures, algorithms, and utilities
+- CLI tools
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
+  - [`json-type-cli`][json-type-cli] &mdash; type-safe request/response CLI too builder.
+  - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
+- Data structures, algorithms, and utilities
   - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Splay, and Radix tree implementations in JavaScript.
+  - [`json-type`][json-type] &mdash; JSON Type: type-safe JSON schema builder, validator, parser
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`pojo-dump`][pojo-dump] &mdash; nicely prings JSON (or POJO) for human consumption.
-  - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
   - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
@@ -91,6 +93,8 @@
 [json-pack]: https://github.com/jsonjoy-com/json-pack
 [json-expression]: https://github.com/jsonjoy-com/json-expression
 [json-pointer]: https://github.com/jsonjoy-com/json-pointer
+[json-type]: https://github.com/jsonjoy-com/json-type
+[json-type-cli]: https://github.com/streamich/json-type-cli
 [libreact]: https://github.com/streamich/libreact
 [linkfs]: https://github.com/streamich/linkfs
 [memfs]: https://github.com/streamich/memfs
