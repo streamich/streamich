@@ -39,7 +39,7 @@
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
-  - [`pojo-dump`][pojo-dump] &mdash; nicely prings JSON (or POJO) for human consumption.
+  - [`pojo-dump`][pojo-dump] &mdash; nicely prints JSON (or POJO) for human consumption.
   - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
