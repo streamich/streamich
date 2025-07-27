@@ -28,14 +28,14 @@
   - [`collaborative-monaco`][collaborative-monaco] &mdash; JSON CRDT real-time collaboration bindings for the Monaco editor.
   - [`collaborative-codemirror`][collaborative-codemirror] &mdash; JSON CRDT real-time collaboration bindings for the CodeMirror editor.
   - [`json-pointer`][json-pointer] &mdash; JSON Pointer (RFC 6901) implementation with JIT compilation.
-  - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
 - CLI tools
   - [`git-cz`][git-cz] &mdash; `feat: 🎸 emoji-fied Git commits`
   - [`json-type-cli`][json-type-cli] &mdash; type-safe request/response CLI too builder.
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
 - Data structures, algorithms, and utilities
-  - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Splay, and Radix tree implementations in JavaScript.
-  - [`json-type`][json-type] &mdash; JSON Type: type-safe JSON schema builder, validator, parser
+  - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Red-Black, Splay, and Radix tree implementations in JavaScript.
+  - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
+  - [`json-type`][json-type] &mdash; JSON Type implementation: type-safe JSON schema builder, validator, parser.
   - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
@@ -44,12 +44,13 @@
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
-  - [`very-small-parser`][very-small-parser] &mdash; Small Markdown and HTML parser and formatter.
+  - [`very-small-parser`][very-small-parser] &mdash; small Markdown and HTML parser and formatter.
     - Supersedes [`md-mdast`](https://github.com/streamich/md-mdast) &mdash; extremely small and fast Markdown to MDAST parser.
+  - [`base64`][base64] &mdash; the fastest Base64 encoder and decoder for browser and Node.js.
   - [`mdast-flat`](https://github.com/streamich/mdast-flat) &mdash; MDAST format to flat-MDAST converter.
-  - [`mqtt-codec`][mqtt-codec] 🧪💥 __experimental__ &mdash; the fastest MQTT packet parser for Node.js.
-  - `jit-parser` 🧪💥 __experimental__ &mdash; PoC of PEG recursive descent backtracking JIT parser generator.
-- Server & Networking
+  - [`jit-parser`][jit-parser] &mdash; PEG recursive descent backtracking JIT parser generator.
+  - [`mqtt-codec`][mqtt-codec] &mdash; the fastest MQTT packet parser for Node.js.
+- Low-level, Server & Networking
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
   - [`redis-joy`][redis-joy] 🧪💥 __experimental__ &mdash; a very fast Redis 7+ RESP3 standalone and cluster client.
@@ -75,6 +76,7 @@
 
 [ass-js]: https://github.com/streamich/ass-js
 [awesome-styleguides]: https://github.com/streamich/awesome-styleguides
+[base64]: https://github.com/jsonjoy-com/base64
 [clickable-json]: https://github.com/streamich/clickable-json
 [code-colors-react]: https://github.com/streamich/code-colors-react
 [code-colors]: https://github.com/streamich/code-colors
@@ -90,6 +92,7 @@
 [git-cz]: https://github.com/streamich/git-cz
 [iconista]: https://github.com/streamich/iconista
 [jit-router]: https://github.com/jsonjoy-com/jit-router
+[jit-parser]: https://github.com/streamich/jit-parser
 [json-pack]: https://github.com/jsonjoy-com/json-pack
 [json-expression]: https://github.com/jsonjoy-com/json-expression
 [json-pointer]: https://github.com/jsonjoy-com/json-pointer
