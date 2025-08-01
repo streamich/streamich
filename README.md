@@ -52,6 +52,7 @@
   - [`jit-parser`][jit-parser] &mdash; PEG recursive descent backtracking JIT parser generator.
   - [`mqtt-codec`][mqtt-codec] &mdash; the fastest MQTT packet parser for Node.js.
 - Low-level, Server & Networking
+  - [`codegen`][codegen] &mdash; JIT code generation tools for JavaScript.
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
   - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
   - [`redis-joy`][redis-joy] 🧪💥 __experimental__ &mdash; a very fast Redis 7+ RESP3 standalone and cluster client.
@@ -80,6 +81,7 @@
 [base64]: https://github.com/jsonjoy-com/base64
 [buffers]: https://github.com/jsonjoy-com/buffers
 [clickable-json]: https://github.com/streamich/clickable-json
+[codegen]: https://github.com/jsonjoy-com/codegen
 [code-colors-react]: https://github.com/streamich/code-colors-react
 [code-colors]: https://github.com/streamich/code-colors
 [collaborative-editor]: https://github.com/streamich/collaborative-editor
