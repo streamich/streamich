@@ -54,7 +54,7 @@
 - Low-level, Server & Networking
   - [`codegen`][codegen] &mdash; JIT code generation tools for JavaScript.
   - [`ass-js`][ass-js] 🧪💥 __experimental__ &mdash; X86_64 assembler compiler in JavaScript.
-  - [`reactive-rcp`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
+  - [`reactive-rpc`][reactive-rpc] 🧪💥 __experimental__ &mdash; a very fast and type safe [JSON Reactive RPC][spec-json-rx] server and client.
   - [`redis-joy`][redis-joy] 🧪💥 __experimental__ &mdash; a very fast Redis 7+ RESP3 standalone and cluster client.
   - [`node-multicore`][node-multicore] 🧪💥 __experimental__ &mdash; PoC of a very fast thread pool for Node.js.
 - Specifications
