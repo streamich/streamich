@@ -34,9 +34,10 @@
   - [`cross-ci`][cross-ci] &mdash; env var normalization across CI/CD services.
 - Data structures, algorithms, and utilities
   - [`sonic-forest`][sonic-forest] &mdash; very fast AVL, Red-Black, Splay, and Radix tree implementations in JavaScript.
+  - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
   - [`json-expression`][json-expression] &mdash; JSON Expression implementation with JIT compilation.
   - [`json-type`][json-type] &mdash; JSON Type implementation: type-safe JSON schema builder, validator, parser.
-  - [`thingies`][thingies] &mdash; a collection of useful TypeScript utilities.
+  - [`json-random`][json-random] &mdash; collection tools to generate random JSON.
   - [`rx-use`][rx-use] &mdash; useful RxJS observables for web apps.
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`pojo-dump`][pojo-dump] &mdash; nicely prints JSON (or POJO) for human consumption.
@@ -97,9 +98,10 @@
 [iconista]: https://github.com/streamich/iconista
 [jit-router]: https://github.com/jsonjoy-com/jit-router
 [jit-parser]: https://github.com/streamich/jit-parser
-[json-pack]: https://github.com/jsonjoy-com/json-pack
 [json-expression]: https://github.com/jsonjoy-com/json-expression
+[json-pack]: https://github.com/jsonjoy-com/json-pack
 [json-pointer]: https://github.com/jsonjoy-com/json-pointer
+[json-random]: https://github.com/jsonjoy-com/json-random
 [json-type]: https://github.com/jsonjoy-com/json-type
 [json-type-cli]: https://github.com/streamich/json-type-cli
 [libreact]: https://github.com/streamich/libreact
