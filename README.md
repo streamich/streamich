@@ -42,7 +42,6 @@
   - [`tree-dump`][tree-dump] &mdash; utility to easily print tree-like structures.
   - [`pojo-dump`][pojo-dump] &mdash; nicely prints JSON (or POJO) for human consumption.
   - [`buffers`][buffers] &mdash; essential browser and Node.js buffer tools.
-  - `web4` 🔜 __soon__ &mdash; CRDT-based content-addressable local-first data repository.
 - Parsing
   - [`json-pack`][json-pack] &mdash; the fastest CBOR, MessagePack, RESP3, UBJSON, JSON, and Bencode codecs in plain JavaScript.
   - [`jit-router`][jit-router] &mdash; the fastest HTTP router in JavaScript.
